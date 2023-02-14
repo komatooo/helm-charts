@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-14T23:32:06.304660096Z"
+    description: Generic chart used for regular workloads
+    digest: 2ed42dd9a8a6d3275f444f0ba1b58c9f6ecad5df749715a9262bee3259fb35a4
+    name: chart
+    type: application
+    urls:
+    - chart-1.0.0+3bac20e.tgz
+    version: 1.0.0+3bac20e
+generated: "2023-02-14T23:32:06.302277396Z"
