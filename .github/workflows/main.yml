@@ -3,9 +3,10 @@ name: Update Index
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
     paths:
       - '**.tgz'
+  workflow_dispatch:
 
 jobs:
   build:
