@@ -3,7 +3,7 @@ entries:
   chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-14T23:32:06.304660096Z"
+    created: "2023-12-27T18:47:55.717823463Z"
     description: Generic chart used for regular workloads
     digest: 2ed42dd9a8a6d3275f444f0ba1b58c9f6ecad5df749715a9262bee3259fb35a4
     name: chart
@@ -11,4 +11,14 @@ entries:
     urls:
     - chart-1.0.0+3bac20e.tgz
     version: 1.0.0+3bac20e
-generated: "2023-02-14T23:32:06.302277396Z"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-27T18:47:55.718532166Z"
+    description: Generic chart used for regular workloads
+    digest: 4cdacfcc4c4952772661191184578190e9296daffd6c983af335185692df6bc1
+    name: chart
+    type: application
+    urls:
+    - chart-1.0.0+b551d75.tgz
+    version: 1.0.0+b551d75
+generated: "2023-12-27T18:47:55.716279155Z"
