@@ -12,8 +12,8 @@ Then update charts index:
 helm repo update
 ```
 
-To find chart in repo:
+To pull application chart in repo:
 
 ```sh
-helm search repo chart --devel
+helm pull komatooo/application
 ```
