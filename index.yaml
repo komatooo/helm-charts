@@ -2,23 +2,13 @@ apiVersion: v1
 entries:
   chart:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-12-27T18:47:55.717823463Z"
+    appVersion: 1.0.0
+    created: "2024-03-03T16:52:17.303823385Z"
     description: Generic chart used for regular workloads
-    digest: 2ed42dd9a8a6d3275f444f0ba1b58c9f6ecad5df749715a9262bee3259fb35a4
+    digest: ad527306b06996a293e5ce9b32bebc767b2ab1978b38be9f6080c93213d6b027
     name: chart
     type: application
     urls:
-    - chart-1.0.0+3bac20e.tgz
-    version: 1.0.0+3bac20e
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-12-27T18:47:55.718532166Z"
-    description: Generic chart used for regular workloads
-    digest: 4cdacfcc4c4952772661191184578190e9296daffd6c983af335185692df6bc1
-    name: chart
-    type: application
-    urls:
-    - chart-1.0.0+b551d75.tgz
-    version: 1.0.0+b551d75
-generated: "2023-12-27T18:47:55.716279155Z"
+    - https://komatooo.github.io/helm-charts/chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-03-03T16:52:17.302770682Z"
