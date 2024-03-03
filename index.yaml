@@ -3,12 +3,12 @@ entries:
   application:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-03-03T17:00:47.810897317Z"
+    created: "2024-03-03T17:00:59.424337104Z"
     description: Generic chart used for regular workloads
     digest: af3823c75322172795d211b2a265e60f5cce626e2d8cb61cab6fe228a2638ed0
     name: application
     type: application
     urls:
-    - https://komatooo.github.io/helm-charts/application-1.0.0.tgz
+    - application-1.0.0.tgz
     version: 1.0.0
-generated: "2024-03-03T17:00:47.810095804Z"
+generated: "2024-03-03T17:00:59.423578461Z"
